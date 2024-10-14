@@ -1,3 +1,7 @@
 *-launcher.hoyoverse.com
 autopatchglb.honkaiimpact3.com
 autopatchglb.honkaiimpact3.com.akamaized.net
+launcher-webstatic.hoyoverse.com
+sg-hyp-api.hoyoverse.com
+autopatchos.zenlesszonezero.com
+autopatchos.starrails.com
