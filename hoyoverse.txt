@@ -1,0 +1,3 @@
+*-launcher.hoyoverse.com
+autopatchglb.honkaiimpact3.com
+autopatchglb.honkaiimpact3.com.akamaized.net
