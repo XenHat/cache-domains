@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "Hoyoverse",
+			"description": "CDN for Genshin Impact, Honkai, ZenlessZenZero, etc.",
+			"domain_files": ["hoyoverse.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
